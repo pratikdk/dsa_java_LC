@@ -1,0 +1,4 @@
+3
+lint,code,love,you
+we,saw,:yes
+weloveleetcode
